@@ -1,0 +1,127 @@
+
+    .logo {
+        margin-top: 10px;
+        color: #224362;
+        padding-left: 20px;
+    }
+    .ifor{
+        text-align: right;
+        padding-top: 10px;
+    }
+    .ifor h4{
+        color: #224362;
+        padding-bottom: 5px;
+    }
+    .title1{
+        background: #224362;
+        color: white;
+    }
+    .title1 img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .title2 img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .title3 h3{
+        text-align: center;
+        color: #224362;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .title4 {
+        background: #224362;
+        color: white;
+    }
+    .title4 img{
+    
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .hop{
+        background: white;
+        color:#224362;
+        text-decoration: none;
+        padding: 10px;
+        font-weight: 600;
+    }
+    .title5 h3{
+        text-align: center;
+        color: #224362;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    li{
+        color: gray;
+        padding-top: 10px;
+    }
+    li span {
+        color: #224362;
+        font-weight: 700;
+    }
+    .title6 {
+        background: #224362;
+        color: white;
+    }
+    .title6 img{
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .title7 h3{
+        text-align: center;
+        color: #224362;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .title7 .row{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .title7 h4{
+        color: #224362;
+        font-weight: 600;
+    }
+    .title8 {
+        background: #224362;
+        color: white;
+    }
+    .title8 img{
+    
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .title9 h3{
+        text-align: center;
+        color: #224362;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .title9 img{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .title9 h4{
+        color: #224362;
+    }
+    .center{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .center img{
+        width: 25px;
+        height: 25px;
+
+    }
+    footer{
+        text-align: center;
+        color: #224362;
+        padding-top: 30px;
+    }
